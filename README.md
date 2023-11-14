@@ -7,8 +7,8 @@ Following files are included:
 
 .ipynb (notebook)
 pdf version of presentation
-The notebook is divided into the following sections
 
+The notebook is divided into the following sections
 1. Loading & Transforming
 2. Feature Engineering + EDA
 3. Prepping Data for Clustering
