@@ -9,9 +9,9 @@ Following files are included:
 pdf version of presentation
 The notebook is divided into the following sections
 
-Loading & Transforming
-Feature Engineering + EDA
-Prepping Data for Clustering
-Baseline Models  (Logistic Regression + Tree Based Models)
-Advanced Models (Neural networks, Auto-Encoders)
-Evaluation of Results / Metrics
+1. Loading & Transforming
+2. Feature Engineering + EDA
+3. Prepping Data for Clustering
+4. Baseline Models  (Logistic Regression + Tree Based Models)
+5. Advanced Models (Neural networks, Auto-Encoders)
+6. Evaluation of Results / Metrics
